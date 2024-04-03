@@ -1,0 +1,375 @@
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/appsettings.Development.json
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/appsettings.json
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/quest_web
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/quest_web.deps.json
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.json
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.dev.json
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/ref/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/quest_web.pdb
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/BCrypt.Net-Next.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Google.Protobuf.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Humanizer.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/MySql.Data.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/ZstdNet.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/MySqlConnector.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/System.Text.Json.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.AssemblyReference.cache
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfoInputs.cache
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfo.cs
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CoreCompileInputs.cache
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cs
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cache
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.Manifest.cache
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.xml
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/scopedcss/bundle/quest_web.styles.css
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.RazorTargetAssemblyInfo.cache
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CopyComplete
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/ref/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.pdb
+/home/thebest/etna/web4/group-967512/Etape_3/quest_web_dotnet/obj/Debug/net5.0/quest_web.genruntimeconfig.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.AssemblyReference.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.GeneratedMSBuildEditorConfig.editorconfig
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfoInputs.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfo.cs
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CoreCompileInputs.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cs
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/ref/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.pdb
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/appsettings.Development.json
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/appsettings.json
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.deps.json
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.json
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.dev.json
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/ref/quest_web.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.pdb
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/BCrypt.Net-Next.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Google.Protobuf.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Humanizer.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/MySql.Data.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/ZstdNet.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/MySqlConnector.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Text.Json.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.Manifest.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.xml
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/scopedcss/bundle/quest_web.styles.css
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.RazorTargetAssemblyInfo.cache
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CopyComplete
+/home/thebest/etna/web4/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.genruntimeconfig.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/appsettings.Development.json
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/appsettings.json
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.deps.json
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.json
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.dev.json
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/ref/quest_web.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/quest_web.pdb
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/BCrypt.Net-Next.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Google.Protobuf.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Humanizer.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/MySql.Data.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/ZstdNet.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/MySqlConnector.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/System.Text.Json.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.AssemblyReference.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfoInputs.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfo.cs
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CoreCompileInputs.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cs
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.Manifest.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.xml
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/scopedcss/bundle/quest_web.styles.css
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.RazorTargetAssemblyInfo.cache
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CopyComplete
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/ref/quest_web.dll
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.pdb
+/home/fabrice/etna/group-967512/Etape_4/quest_web_dotnet/obj/Debug/net5.0/quest_web.genruntimeconfig.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.AssemblyReference.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfoInputs.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.AssemblyInfo.cs
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CoreCompileInputs.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cs
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.MvcApplicationPartsAssemblyInfo.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/ref/quest_web.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.pdb
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/appsettings.Development.json
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/appsettings.json
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/quest_web
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/quest_web.deps.json
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.json
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/quest_web.runtimeconfig.dev.json
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/quest_web.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/ref/quest_web.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/quest_web.pdb
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/BCrypt.Net-Next.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Google.Protobuf.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Humanizer.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/MySql.Data.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/ZstdNet.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/MySqlConnector.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/System.Runtime.Caching.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/System.Text.Json.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.Manifest.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/staticwebassets/quest_web.StaticWebAssets.xml
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/scopedcss/bundle/quest_web.styles.css
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.RazorTargetAssemblyInfo.cache
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.csproj.CopyComplete
+/home/fabrice/etna/group-967512/Projet_libre/quest_web_dotnet/obj/Debug/net5.0/quest_web.genruntimeconfig.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.csproj.AssemblyReference.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.AssemblyInfoInputs.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.AssemblyInfo.cs
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.csproj.CoreCompileInputs.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.MvcApplicationPartsAssemblyInfo.cs
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.MvcApplicationPartsAssemblyInfo.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\refint\quest_web.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.pdb
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\appsettings.Development.json
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\appsettings.json
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.StaticWebAssets.xml
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.exe
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.deps.json
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.runtimeconfig.json
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.runtimeconfig.dev.json
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\quest_web.pdb
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Google.Protobuf.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Humanizer.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\MySql.Data.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\ZstdNet.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\MySqlConnector.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\System.Text.Json.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\scopedcss\bundle\quest_web.styles.css
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\staticwebassets\quest_web.StaticWebAssets.Manifest.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.RazorTargetAssemblyInfo.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.csproj.CopyComplete
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\quest_web.genruntimeconfig.cache
+D:\TheBest\Desktop\Etna\API REST\Web4\group-967512\Projet_libre\quest_web_dotnet\obj\Debug\net5.0\ref\quest_web.dll

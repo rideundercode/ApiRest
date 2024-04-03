@@ -1,0 +1,47 @@
+[DisplayFormat(ConvertEmptyStringToNull = false)]
+[Required(AllowEmptyStrings =true)]
+
+public ActionResult register([FromBody] User UserEntry)
+        {    
+            var verification = db.Users.FromSqlRaw("SELECT * FROM user where username = {0}", UserEntry.Username) ;
+
+            if(verification.Any())
+            {
+                var ex = new Exception("Utilisateur deja existant") ;
+                return StatusCode(409, ex ) ;
+            }    
+            
+            var user = new User {
+                Username = UserEntry.Username,
+                Password = BCrypt.Net.BCrypt.HashPassword(UserEntry.Password),
+                CreationDate = DateTime.Now 
+                };
+
+                
+            try 
+            {
+                db.Users.Add(user);
+                var res = db.SaveChanges();
+
+                if(res == 1)
+                {
+                    var result = new UserDetails 
+                                {
+                                    Username = user.Username,
+                                    Role = user.Role   
+                                } ;
+
+                    return StatusCode(201,result ) ;
+                }
+
+                else 
+                    throw new Exception("Erreur avec la base de donnees") ;   
+
+            }
+            
+            catch(Exception e) 
+            {
+                return StatusCode(400, e) ;       
+            }       
+
+        } 
